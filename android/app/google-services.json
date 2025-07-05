@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929440554591",
+    "project_id": "justice-b9f4a",
+    "storage_bucket": "justice-b9f4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929440554591:android:c72118c0e817b4c72445ea",
+        "android_client_info": {
+          "package_name": "com.example.justice_complaints"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3di0984sPRAFqbQa-sSlw1tRTcjdd_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
